@@ -1,4 +1,8 @@
- .u-section-1 {
+body {
+   overflow-x: hidden; 
+}
+
+.u-section-1 {
   background-image: url("b776ef28-2fd6-7f41-f904-3250a4ae993b1.png");
   background-position: 50% 50%;
 }
